@@ -1,0 +1,1189 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "ragi",
+		"player1": "bf_rage",
+		"player2": "sadsheet-s",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"sing shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22146.8023255814,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rage1"
+					]
+				]
+			],
+			[
+				22238.3720930232,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				44476.7441860465,
+				[
+					[
+						"Change Character",
+						"gf",
+						"no"
+					]
+				]
+			],
+			[
+				44563.9534883721,
+				[
+					[
+						"Play Animation",
+						"tf",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				55726.7441860465,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf_rage"
+					]
+				]
+			],
+			[
+				55813.9534883721,
+				[
+					[
+						"Play Animation",
+						"normal",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				66889.534883721,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rage2"
+					]
+				]
+			],
+			[
+				89302.3255813953,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Rage3"
+					]
+				]
+			],
+			[
+				89389.5348837209,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89476.7441860465,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89563.9534883721,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89651.1627906977,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89738.3720930232,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89825.5813953488,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				89912.7906976744,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90087.2093023256,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90174.4186046511,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90261.6279069767,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90348.8372093023,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90436.0465116279,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90523.2558139535,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90610.4651162791,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90697.6744186046,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90784.8837209302,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90872.0930232558,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				90959.3023255814,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91046.5116279069,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91133.7209302325,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91220.9302325581,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91308.1395348837,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91395.3488372093,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91482.5581395349,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91569.7674418604,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91656.976744186,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91744.1860465116,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91831.3953488372,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				91918.6046511628,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92005.8139534884,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92093.0232558139,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92180.2325581395,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92267.4418604651,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92354.6511627907,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92441.8604651162,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92529.0697674418,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92616.2790697674,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92703.488372093,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92790.6976744186,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92877.9069767442,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				92965.1162790697,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93052.3255813953,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93139.5348837209,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93226.7441860465,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93313.9534883721,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93401.1627906977,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93488.3720930232,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93575.5813953488,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93662.7906976744,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93750,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93837.2093023255,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				93924.4186046511,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94011.6279069767,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94098.8372093023,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94186.0465116279,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94273.2558139535,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94360.465116279,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94447.6744186046,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94534.8837209302,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94622.0930232558,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94709.3023255814,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94796.5116279069,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94883.7209302325,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				94970.9302325581,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95058.1395348837,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95145.3488372093,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95232.5581395349,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95319.7674418604,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95406.976744186,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95494.1860465116,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95581.3953488372,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95668.6046511628,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95755.8139534884,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95843.0232558139,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				95930.2325581395,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96017.4418604651,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96104.6511627907,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96191.8604651163,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96279.0697674418,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96366.2790697674,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96453.488372093,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96540.6976744186,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96627.9069767442,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96715.1162790697,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96802.3255813953,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96889.5348837209,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				96976.7441860465,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97063.9534883721,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97151.1627906977,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97238.3720930232,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97325.5813953488,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97412.7906976744,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97587.2093023256,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97674.4186046511,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97761.6279069767,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97848.8372093023,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				97936.0465116279,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				98023.2558139534,
+				[
+					[
+						"Play Animation",
+						"Animf",
+						"dad"
+					]
+				]
+			],
+			[
+				98110.465116279,
+				[
+					[
+						"Play Animation",
+						"Anims",
+						"dad"
+					]
+				]
+			],
+			[
+				101598.837209302,
+				[
+					[
+						"Camera Follow Pos",
+						"190",
+						"530"
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				101686.046511628,
+				[
+					[
+						"Change Character",
+						"gf",
+						"no"
+					]
+				]
+			],
+			[
+				101773.255813953,
+				[
+					[
+						"Play Animation",
+						"tf",
+						""
+					]
+				]
+			],
+			[
+				101860.465116279,
+				[
+					[
+						"Change Character",
+						"dad",
+						"raget"
+					],
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				103255.813953488,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_rage",
+		"bpm": 172,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rage"
+	}
+}
