@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "sakura",
+		"player1": "bf_post",
+		"player2": "gfpost",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"quitarhud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93.75,
+				[
+					[
+						"Set Cam ZoomEx",
+						"0.7",
+						"11"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				23156.25,
+				[
+					[
+						"volverhud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Set Cam ZoomEx",
+						"1.5",
+						"10.8"
+					]
+				]
+			],
+			[
+				180281.25,
+				[
+					[
+						"Image Flash",
+						"negro",
+						"19.8"
+					]
+				]
+			],
+			[
+				183000,
+				[
+					[
+						"Image FlashD",
+						"pereba1",
+						"3"
+					]
+				]
+			],
+			[
+				185906.25,
+				[
+					[
+						"Image FlashD",
+						"pereba2",
+						"3"
+					]
+				]
+			],
+			[
+				188906.25,
+				[
+					[
+						"Image FlashD",
+						"pereba3",
+						"3"
+					]
+				]
+			],
+			[
+				191906.25,
+				[
+					[
+						"Image FlashD",
+						"pereba4",
+						"3"
+					]
+				]
+			],
+			[
+				194906.25,
+				[
+					[
+						"Image FlashD",
+						"pereba5",
+						"99"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "daisuki"
+	}
+}
