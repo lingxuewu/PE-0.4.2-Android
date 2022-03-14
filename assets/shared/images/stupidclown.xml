@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stupidclown.png">
+<SubTexture name="stupidclown0000" x="0" y="0" width="335" height="613" frameX="0" frameY="0" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0001" x="335" y="0" width="334" height="600" frameX="0" frameY="-13" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0002" x="0" y="613" width="334" height="586" frameX="0" frameY="-27" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0003" x="669" y="613" width="334" height="580" frameX="0" frameY="-33" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0004" x="1003" y="613" width="334" height="573" frameX="0" frameY="-40" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0005" x="334" y="613" width="335" height="582" frameX="0" frameY="-31" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0006" x="1003" y="0" width="334" height="590" frameX="0" frameY="-23" frameWidth="335" frameHeight="613" />
+<SubTexture name="stupidclown0007" x="669" y="0" width="334" height="600" frameX="0" frameY="-13" frameWidth="335" frameHeight="613" />
+</TextureAtlas>

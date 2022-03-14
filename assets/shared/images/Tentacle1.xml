@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tentacle1.png">
+<SubTexture name="HOLD0000" x="0" y="0" width="1282" height="157" frameX="-33" frameY="-73" frameWidth="1377" frameHeight="291" />
+<SubTexture name="PUSH0000" x="1269" y="1234" width="1268" height="106" frameX="-46" frameY="-135" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0000" x="862" y="157" width="165" height="147" frameX="-1150" frameY="-83" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0001" x="1027" y="157" width="224" height="146" frameX="-1091" frameY="-84" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0002" x="0" y="940" width="320" height="147" frameX="-995" frameY="-83" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0003" x="320" y="940" width="392" height="147" frameX="-923" frameY="-83" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0004" x="759" y="628" width="496" height="149" frameX="-819" frameY="-81" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0005" x="0" y="1087" width="646" height="147" frameX="-669" frameY="-83" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0006" x="0" y="628" width="759" height="156" frameX="-556" frameY="-74" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0007" x="0" y="157" width="862" height="157" frameX="-453" frameY="-73" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0008" x="0" y="314" width="965" height="157" frameX="-350" frameY="-73" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0009" x="0" y="471" width="1108" height="157" frameX="-207" frameY="-73" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0010" x="0" y="784" width="1210" height="156" frameX="-105" frameY="-73" frameWidth="1377" frameHeight="291" />
+<SubTexture name="START0011" x="0" y="0" width="1282" height="157" frameX="-33" frameY="-73" frameWidth="1377" frameHeight="291" />
+</TextureAtlas>
